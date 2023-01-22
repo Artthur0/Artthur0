@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artthur0
 - 👀 I’m interested in learning on progamation
-- 🌱 I’m currently learning Scracht
+- 🌱 I’m currently learning python.
 
 
 <!---
